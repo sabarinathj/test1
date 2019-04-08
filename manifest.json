@@ -1,0 +1,6 @@
+{
+  "name": "mockathon",
+  "short_name": "mockathon",
+  "start_url": "/",
+  "display": "standalone"
+}
